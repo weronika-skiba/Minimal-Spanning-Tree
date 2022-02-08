@@ -1,0 +1,6 @@
+a w 1
+d q 3
+s n 5
+m y 8
+t p 6
+u l 0

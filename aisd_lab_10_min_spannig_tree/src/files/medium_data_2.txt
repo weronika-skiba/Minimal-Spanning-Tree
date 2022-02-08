@@ -1,0 +1,16 @@
+once seventh 16
+fifth seventh 28
+fourth fifth 35
+fourth seventh 381
+zero fifth 32
+once fourth 38
+twice trice 17
+zero seventh 19
+once twice 26
+zero twice 36
+zero trice 29
+twice seventh 34
+sixth twice 40
+trice sixth 52
+sixth once 58
+sixth fourth 93
